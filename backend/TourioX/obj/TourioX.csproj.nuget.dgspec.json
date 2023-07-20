@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rishikeshyadav/Desktop/TourioX/TourioX/TourioX.csproj": {}
+  },
+  "projects": {
+    "/Users/rishikeshyadav/Desktop/TourioX/TourioX/TourioX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rishikeshyadav/Desktop/TourioX/TourioX/TourioX.csproj",
+        "projectName": "TourioX",
+        "projectPath": "/Users/rishikeshyadav/Desktop/TourioX/TourioX/TourioX.csproj",
+        "packagesPath": "/Users/rishikeshyadav/.nuget/packages/",
+        "outputPath": "/Users/rishikeshyadav/Desktop/TourioX/TourioX/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rishikeshyadav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/x64/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

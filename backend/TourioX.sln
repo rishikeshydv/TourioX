@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourioX", "TourioX\TourioX.csproj", "{1963B1C3-6EF0-4AE9-86FE-66696AC7AE56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7AC50945-0639-45B4-9136-09A81025402A}"
+	ProjectSection(SolutionItems) = preProject
+		EmptyClass.cs = EmptyClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1963B1C3-6EF0-4AE9-86FE-66696AC7AE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1963B1C3-6EF0-4AE9-86FE-66696AC7AE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1963B1C3-6EF0-4AE9-86FE-66696AC7AE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1963B1C3-6EF0-4AE9-86FE-66696AC7AE56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2429F7D-D0F4-4A03-9CA2-9AF870EAFDE1}
+	EndGlobalSection
+EndGlobal
